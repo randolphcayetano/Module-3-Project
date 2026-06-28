@@ -983,7 +983,7 @@ footer {
     margin-top: 24px;
 }
 
-.footer__column--link::after {
+.footer__column--link:after {
     content: "underline";
     position: absolute;
     left: 0;

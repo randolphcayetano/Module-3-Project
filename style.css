@@ -1055,6 +1055,11 @@ footer {
         justify-content: flex-end;
     }
 
+    .header__customers {
+        padding-right: 64px;6
+        
+    }
+
     .header__img {
         max-width: 512px;
     }
@@ -1306,7 +1311,7 @@ footer {
     .header__email {
         flex-direction: column;
         height: auto;
-        
+
     }
     
     .header__customers--title {

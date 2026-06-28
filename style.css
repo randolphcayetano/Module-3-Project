@@ -344,7 +344,7 @@ header .row {
 }
 
 .feature {
-    width: calc(100%/3);
+    width: calc(100% / 3);
 }
 
 .feature__row {

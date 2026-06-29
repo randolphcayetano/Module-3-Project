@@ -785,7 +785,7 @@ color: rgb(74, 85, 104);
     margin-left: 24px;
 }
 
-.testimonail__name {
+.testimonial__name {
     color: #4a5568;
     line-height: 1.625;
     font-size: 1.25rem;
@@ -1248,7 +1248,7 @@ footer {
     }
 
     #steps .row, 
-    #testimonials.row {
+    #testimonials .row {
         flex-direction: column;
     }
 

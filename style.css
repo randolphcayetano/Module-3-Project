@@ -1277,7 +1277,7 @@ footer {
     }
 
     #testimonials .container {
-        flex-direction: column;
+        flex-direction: column
     }
 
     .testimonials__description {

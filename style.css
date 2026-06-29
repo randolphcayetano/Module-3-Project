@@ -726,6 +726,11 @@ header .row {
     padding-left: 64px;
 }
 
+#testimonials .section__title {
+    margin-bottom: 24px;
+    line-height: 1.25;
+}
+
 .testimonial {
     margin-top: 40px;
 }
@@ -1242,7 +1247,8 @@ footer {
         flex-direction: column-reverse;
     }
 
-    #steps .row {
+    #steps .row, 
+    #testimonials.row {
         flex-direction: column;
     }
 
@@ -1318,6 +1324,21 @@ footer {
         flex-direction: column;
         height: auto;
 
+    }
+
+    .header__email--input {
+        position: static;
+        padding: 16px 0;
+        padding-left: 32px;
+        line-height: 1.5;
+    }
+
+    .header__email--btn {
+        width: 100%;
+        padding: 16px 0;
+        margin: 16px 0;
+        margin-bottom: 0px;
+        line-height: 1.5;
     }
     
     .header__customers--title {
